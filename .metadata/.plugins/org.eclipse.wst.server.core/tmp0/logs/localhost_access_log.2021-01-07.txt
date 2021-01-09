@@ -1,0 +1,15 @@
+127.0.0.1 - - [07/Jan/2021:18:29:16 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [07/Jan/2021:18:29:17 +0530] "GET /ORSProject4/ HTTP/1.1" 200 596
+0:0:0:0:0:0:0:1 - - [07/Jan/2021:18:29:17 +0530] "GET /ORSProject4/img/customLogo.png HTTP/1.1" 200 17583
+0:0:0:0:0:0:0:1 - - [07/Jan/2021:18:29:17 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [07/Jan/2021:18:29:19 +0530] "GET /ORSProject4/WelcomeCtl HTTP/1.1" 200 4344
+0:0:0:0:0:0:0:1 - - [07/Jan/2021:18:29:19 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 1001
+0:0:0:0:0:0:0:1 - - [07/Jan/2021:18:29:19 +0530] "GET /ORSProject4/css/jquery-ui.css HTTP/1.1" 200 37282
+0:0:0:0:0:0:0:1 - - [07/Jan/2021:18:29:19 +0530] "GET /ORSProject4/js/jquery-1.12.4.js HTTP/1.1" 200 304436
+0:0:0:0:0:0:0:1 - - [07/Jan/2021:18:29:19 +0530] "GET /ORSProject4/js/jquery-ui.js HTTP/1.1" 200 539419
+0:0:0:0:0:0:0:1 - - [07/Jan/2021:18:29:25 +0530] "GET /ORSProject4/LoginCtl HTTP/1.1" 200 5564
+0:0:0:0:0:0:0:1 - - [07/Jan/2021:18:29:25 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 1001
+0:0:0:0:0:0:0:1 - - [07/Jan/2021:18:29:34 +0530] "POST /ORSProject4/LoginCtl HTTP/1.1" 200 6127
+0:0:0:0:0:0:0:1 - - [07/Jan/2021:18:29:34 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 1001
+0:0:0:0:0:0:0:1 - - [07/Jan/2021:18:30:01 +0530] "GET /ORSProject4/ctl/CollegeListCtl HTTP/1.1" 200 11314
+0:0:0:0:0:0:0:1 - - [07/Jan/2021:18:30:01 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 1001
